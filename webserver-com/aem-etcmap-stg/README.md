@@ -1,0 +1,1 @@
+This is aem-etcmap-stg inside webserver-com
