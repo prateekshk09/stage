@@ -1,1 +1,0 @@
-This is aem-content-stg inside webserver-com
